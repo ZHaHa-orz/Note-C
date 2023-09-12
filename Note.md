@@ -35,11 +35,16 @@
 
 ## 2. 第一个C语言程序
 
+.c：源文件
+
+.h：头文件
+
 ```c
 include <stdio.h>
 
 //main函数是程序的入口
 //一个工程中main函数有且仅有一个
+//ctrl + f5 ：运行代码
 int main()
 {
     printf("hello bit\n");
